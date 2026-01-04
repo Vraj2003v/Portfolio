@@ -1,0 +1,283 @@
+{
+  "title": {
+    "locales": {
+      "en": {
+        "title_short": "About",
+        "title_short_nav": "About",
+        "title_long_prefix": "Get to know",
+        "title_long": "About {{Me}}"
+      }
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleText",
+      "locales": {
+        "en": {
+          "title": "Hello, I'm {{Vrajkumar Patel}}"
+        }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc"
+      },
+      "items": [
+        {
+          "id": 1,
+          "img": "/images/pictures/vraj.png",
+          "faIcon": "fa-solid fa-chart-line",
+          "faIconColors": {
+            "bg": "",
+            "fill": "#4A90E2",
+            "fillLight": "#2E5C8A"
+          },
+          "locales": {
+            "en": {
+              "text": "<p>I am a [[Master’s]] student in [[Applied Computing]] with a specialization in [[Artificial Intelligence]] at the [[University of Windsor]], [[Canada]], driven by a strong interest in [[AI/ML]], [[Natural Language Processing]], and [[Large Language Models]] ([[LLMs]]). My focus lies in leveraging [[advanced computational techniques]] to transform [[complex data]] into [[scalable]], [[intelligent]], and [[decision-ready solutions]].</p><p>I bring strong foundations in [[Python]], [[Java]], [[C++]], [[machine learning]], [[data structures and algorithms]], and [[SQL]]-based [[DBMS]], with hands-on experience across [[AI]] and [[data science workflows]], including [[predictive analytics]], [[natural language processing]], [[neural networks]], and [[large language models]]. I have also worked with [[Power BI]] to create [[data visualizations]] and [[dashboards]] that effectively communicate [[insights]] and support [[analytical decision-making]].</p><p>My applied experience spans [[machine learning]], [[natural language processing]], [[Large Language Models]], [[image captioning]], [[stock market analysis]], and [[predictive modeling]], with a consistent emphasis on [[reproducibility]], [[interpretability]], and [[real-world application]].</p>"
+            }
+          }
+        },
+        {
+          "id": 2,
+          "img": "",
+          "faIcon": "fa-solid fa-rocket",
+          "faIconColors": {
+            "bg": "",
+            "fill": "#E94E77",
+            "fillLight": "#A73554"
+          },
+          "locales": {
+            "en": {
+              "text": "<p>Currently seeking opportunities to apply my skills in dynamic organizations where I can contribute to [[artificial intelligence]], [[machine learning]], [[natural language processing]], [[large language models]], and data-driven decision-making.</p><p>I thrive in [[collaborative environments]] and love solving [[complex problems]] with [[clean]], [[actionable]], and [[AI-driven data solutions]].</p>"
+            }
+          }
+        },
+        {
+          "id": 3,
+          "img": "",
+          "faIcon": "fa-solid fa-lightbulb",
+          "faIconColors": {
+            "bg": "",
+            "fill": "#F39C12",
+            "fillLight": "#B87503"
+          },
+          "locales": {
+           "en": {
+            "text": "<p>My approach combines [[technical expertise]] with [[strong communication skills]] to bridge the gap between [[AI-driven insights]] and [[decision-makers]].</p><p>I focus on delivering [[clear]], [[actionable insights]] through [[machine learning]], [[data analysis]], [[dashboards]], and [[predictive modeling]].</p>"
+            }
+
+          }
+        }
+      ]
+    },
+
+
+    {
+      "id": 3,
+      "component": "ArticleTestimonials",
+      "locales": {
+        "en": {
+          "title": "Professional {{Recommendations}}"
+        }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc"
+      },
+      "items": [
+        {
+          "id": 1,
+          "label": "Dr. Nitesh Sureja",
+          "link": {
+            "href": "https://www.linkedin.com/in/dr-nitesh-sureja-92750b33/",
+            "tooltipString": "open_website"
+          },
+          "img": "",
+          "faIcon": "fa-solid fa-user",
+          "faIconColors": {
+            "bg": "#0077b5",
+            "bgLight": "#0077b5",
+            "fill": "#ffffff",
+            "fillLight": "#ffffff"
+          },
+          "locales": {
+            "en": {
+              "title": "Director of Engineering Department at KPGU | [[Former Mentor]]",
+              "text": "I highly recommend Vrajkumar Patel for opportunities that will allow him to further demonstrate his [[dedication]], [[leadership]], and professional growth. He has consistently stood out as a motivated and engaged learner through his active involvement in Experiential Learning Activities."
+            }
+          }
+        },
+        {
+          "id": 2,
+          "label": "Dr. Rocky Upadhyay",
+          "link": {
+            "href": "https://www.linkedin.com/in/dr-rocky-upadhyay/",
+            "tooltipString": "open_website"
+          },
+          "img": "",
+          "faIcon": "fa-solid fa-user",
+          "faIconColors": {
+            "bg": "#0077b5",
+            "bgLight": "#0077b5",
+            "fill": "#ffffff",
+            "fillLight": "#ffffff"
+          },
+          "locales": {
+            "en": {
+              "title": "Associate Professor at KPGU | [[Former HOD]]",
+              "text": "Vrajkumar consistently demonstrated [[exceptional skills]] in project development and Python programming. His ability to approach complex problems with logical thinking and innovative solutions was evident in his project work."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "component": "ArticleInfoList",
+      "locales": {
+        "en": {
+          "title": "Personal {{Interests}} & Passions"
+        }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc"
+      },
+      "items": [
+        {
+          "id": 1,
+          "faIcon": "fa-solid fa-database",
+          "faIconColors": {
+            "bg": "",
+            "bgLight": "",
+            "fill": "#4A90E2",
+            "fillLight": "#2E5C8A"
+          },
+          "label": null,
+          "link": {
+            "href": null,
+            "tooltipString": null
+          },
+          "copyToClipboardButton": false,
+          "locales": {
+            "en": {
+              "title": "{{Data Science}} & Analytics",
+              "text": "Continuously exploring new techniques in machine learning, statistical modeling, and advanced analytics to solve real-world problems."
+            }
+          }
+        },
+        {
+          "id": 2,
+          "faIcon": "fa-solid fa-chart-pie",
+          "faIconColors": {
+            "bg": "",
+            "bgLight": "",
+            "fill": "#E94E77",
+            "fillLight": "#A73554"
+          },
+          "label": null,
+          "link": {
+            "href": null,
+            "tooltipString": null
+          },
+          "copyToClipboardButton": false,
+          "locales": {
+            "en": {
+              "title": "{{Dashboard}} Design",
+              "text": "Passionate about creating intuitive and visually compelling dashboards that make complex data accessible to all stakeholders."
+            }
+          }
+        },
+        {
+          "id": 3,
+          "faIcon": "fa-solid fa-brain",
+          "faIconColors": {
+            "bg": "",
+            "bgLight": "",
+            "fill": "#9B59B6",
+            "fillLight": "#6C3483"
+          },
+          "label": null,
+          "link": {
+            "href": null,
+            "tooltipString": null
+          },
+          "copyToClipboardButton": false,
+          "locales": {
+            "en": {
+              "title": "{{AI}} & Automation",
+              "text": "Interested in leveraging artificial intelligence and automation to streamline data processes and enhance decision-making."
+            }
+          }
+        },
+        {
+          "id": 4,
+          "faIcon": "fa-solid fa-book-open",
+          "faIconColors": {
+            "bg": "",
+            "bgLight": "",
+            "fill": "#27AE60",
+            "fillLight": "#1E8449"
+          },
+          "label": null,
+          "link": {
+            "href": null,
+            "tooltipString": null
+          },
+          "copyToClipboardButton": false,
+          "locales": {
+            "en": {
+              "title": "{{Continuous}} Learning",
+              "text": "Always learning new tools, technologies, and methodologies in the ever-evolving field of data analytics and business intelligence."
+            }
+          }
+        },
+        {
+          "id": 5,
+          "faIcon": "fa-solid fa-plane-departure",
+          "faIconColors": {
+            "bg": "",
+            "bgLight": "",
+            "fill": "#F39C12",
+            "fillLight": "#B87503"
+          },
+          "label": null,
+          "link": {
+            "href": null,
+            "tooltipString": null
+          },
+          "copyToClipboardButton": false,
+          "locales": {
+            "en": {
+              "title": "{{Travel}} & Exploring",
+              "text": "Exploring new places, cultures, and cuisines, with a passion for discovering local experiences, understanding diverse perspectives, and gaining inspiration through travel and exploration."
+            }
+          }
+        },
+        {
+          "id": 6,
+          "faIcon": "fa-solid fa-music",
+          "faIconColors": {
+            "bg": "",
+            "bgLight": "",
+            "fill": "#E74C3C",
+            "fillLight": "#C0392B"
+          },
+          "label": null,
+          "link": {
+            "href": null,
+            "tooltipString": null
+          },
+          "copyToClipboardButton": false,
+          "locales": {
+            "en": {
+              "title": "{{Sports}} & Fitness",
+              "text": "A passionate sports enthusiast who enjoys staying active through team and individual sports. I value discipline, teamwork, and resilience developed through sports."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

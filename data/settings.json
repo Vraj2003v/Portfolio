@@ -1,0 +1,75 @@
+{
+  "developerSettings": {
+    "debugMode": false,
+    "fakeEmailRequests": false,
+    "stayOnThePreloaderScreen": false,
+    "version": "1.1.0"
+  },
+  "preloaderSettings": {
+    "enabled": true,
+    "title": "<b>Vrajkumar Patel</b>",
+    "subtitle": "Portfolio",
+    "logoOffset": {
+      "right": 14,
+      "top": 2,
+      "bottom": 0
+    }
+  },
+  "templateSettings": {
+    "animatedCursorEnabled": false,
+    "backgroundStyle": "animated",
+    "defaultLanguageId": "en",
+    "defaultThemeId": "dark",
+    "fullscreenEnabled": true,
+    "showSpinnerOnThemeChange": true
+  },
+  "supportedLanguages": [
+    {
+      "name": "English",
+      "id": "en",
+      "flagUrl": "images/flags/en-us.png"
+    }
+  ],
+  "supportedThemes": [
+    {
+      "id": "dark",
+      "icon": "fa-solid fa-moon",
+      "dark": true,
+      "locales": {
+        "en": {
+          "name": "Dark Mode"
+        }
+      }
+    },
+    {
+      "id": "light",
+      "icon": "fa-solid fa-sun",
+      "dark": false,
+      "locales": {
+        "en": {
+          "name": "Light Mode"
+        }
+      }
+    }
+  ],
+  "consoleMessageForDevelopers": {
+    "title": "🖥️ Hey there, fellow developer!",
+    "items": [
+      {
+        "description": "This is an open-source portfolio template built with React and Vite.",
+        "list": [],
+        "listStyle": "none"
+      },
+      {
+        "description": "Like what you see? Let’s connect:",
+        "list": [
+          "GitHub: https://github.com/Vraj2003v",
+          "Portfolio: https://<your-portfolio-url>",
+          "LinkedIn: https://www.linkedin.com/in/vraj2003v"
+        ],
+        "listStyle": "bulleted"
+      }
+    ]
+  },
+  "imagesToCache": []
+}

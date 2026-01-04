@@ -1,0 +1,198 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Journey",
+                "title_short_nav": "My Journey",
+                "title_long_prefix": "Career",
+                "title_long": "{{Journey}} & Updates"
+            }
+        }
+    },
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleThread",
+            "locales": {
+                "en": {
+                    "title": "Career {{Milestones}} & Updates"
+                }
+            },
+            "settings": {
+                "max_rows_collapse_threshold": 5,
+                "order_items_by": "date",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "date": {
+                        "year": 2025,
+                        "month": 9
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://www.uregina.ca",
+                                "tooltipString": "open_link",
+                                "faIcon": "fa-solid fa-graduation-cap"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Started as {{Teaching Assistant}}",
+                            "province": "Regina, Saskatchewan",
+                            "country": "Canada",
+                            "institution": "University of Regina",
+                            "text": "Began my role as a Teaching Assistant for [[Math 110 - Calculus I]] in the Department of Mathematics and Statistics. Excited to help students understand complex mathematical concepts and support their academic journey."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "date": {
+                        "year": 2025,
+                        "month": 3
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://www.uregina.ca",
+                                "tooltipString": "open_link",
+                                "faIcon": "fa-solid fa-graduation-cap"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Started {{Tutoring}} Role",
+                            "province": "Regina, Saskatchewan",
+                            "country": "Canada",
+                            "institution": "University of Regina - CESL UofR",
+                            "text": "Launched personalized mentorship program for [[Computer Science & Mathematics]] students. Empowering the next generation of coders, data scientists, and problem-solvers through hands-on guidance and support."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "date": {
+                        "year": 2024,
+                        "month": 12
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://www.linkedin.com/in/cantor-sk/",
+                                "tooltipString": "open_link",
+                                "faIcon": "fa-brands fa-linkedin"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Building {{Portfolio}} Website",
+                            "province": "Saskatchewan",
+                            "country": "Canada",
+                            "institution": "Personal Project",
+                            "text": "Created a professional portfolio website using [[React]] to showcase my data analytics projects, skills, and career journey. Implementing modern web technologies and best practices for a compelling online presence."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "date": {
+                        "year": 2024,
+                        "month": 6
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://www.uregina.ca",
+                                "tooltipString": "open_link",
+                                "faIcon": "fa-solid fa-graduation-cap"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Graduated with {{MSc}} Data Science",
+                            "province": "Regina, Saskatchewan",
+                            "country": "Canada",
+                            "institution": "University of Regina",
+                            "text": "Successfully completed Master of Science in [[Data Science]] with focus on statistical analysis, machine learning, and data visualization. Gained expertise in Python, R, SQL, and advanced analytics methodologies."
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "date": {
+                        "year": 2023,
+                        "month": 9
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://github.com",
+                                "tooltipString": "open_link",
+                                "faIcon": "fa-brands fa-github"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Completed {{Data Analytics}} Certification",
+                            "province": "Online",
+                            "country": "Canada",
+                            "institution": "Professional Development",
+                            "text": "Earned multiple certifications in [[Power BI]], [[Tableau]], and [[Advanced SQL]]. Enhanced skills in business intelligence, dashboard creation, and data storytelling for impactful decision-making."
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "date": {
+                        "year": 2022,
+                        "month": 9
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://www.uregina.ca",
+                                "tooltipString": "open_link",
+                                "faIcon": "fa-solid fa-graduation-cap"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Started {{Graduate}} Studies",
+                            "province": "Regina, Saskatchewan",
+                            "country": "Canada",
+                            "institution": "University of Regina",
+                            "text": "Began Master's program in Data Science, diving deep into [[statistical modeling]], [[machine learning algorithms]], and [[big data analytics]]. Focused on applying data-driven solutions to real-world problems."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

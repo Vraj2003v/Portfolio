@@ -1,0 +1,329 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Certifications",
+                "title_short_nav": "Certifications",
+                "title_long_prefix": "My professional",
+                "title_long": "{{Certifications}} & Courses"
+            }
+        }
+    },
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleCards",
+            "locales": {
+                "en": {
+                    "title": "Professional {{Certifications}}"
+                }
+            },
+            "settings": {
+                "order_items_by": "date.year",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/certifications/ibm-logo.png",
+                    "faIcon": "fa-brands fa-ibm",
+                    "faIconColors": {
+                        "bg": "#0F62FE",
+                        "bgLight": "#0F62FE",
+                        "fill": "#FFFFFF",
+                        "fillLight": "#FFFFFF"
+                    },
+                    "date": {
+                        "year": 2025,
+                        "month": 12
+                    },
+                    "link": {
+                        "href": "https://www.credly.com/badges/e0d95852-fd21-4845-b4cf-2b100a54ca2e/public_url",
+                        "tooltipString": "open_website"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{IBM}} Data Science Tools",
+                            "text": "Comprehensive certification covering Business Statistics, Tableau, Cloud Computing, Machine Learning, Data Analysis, Power BI, and Data Pipelines. Validates expertise in essential data science tools and platforms."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": "",
+                    "faIcon": "fa-brands fa-linkedin",
+                    "faIconColors": {
+                        "bg": "#0A66C2",
+                        "bgLight": "#0A66C2",
+                        "fill": "#FFFFFF",
+                        "fillLight": "#FFFFFF"
+                    },
+                    "date": {
+                        "year": 2025,
+                        "month": 12
+                    },
+                    "link": {
+                        "href": "https://www.linkedin.com/learning/certificates/10441d07a7e6495a62b4f80db4591d62b8a9efba328a641776ed0dccd01cbe2c",
+                        "tooltipString": "open_website"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{LinkedIn}} Learning Data Analytics: 1 Foundations",
+                            "text": "Foundational certification in data analytics covering core concepts, analytical techniques, and industry best practices for aspiring data analysts."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": "images/certifications/ibm-logo.png",
+                    "faIcon": "fa-brands fa-ibm",
+                    "faIconColors": {
+                        "bg": "#0F62FE",
+                        "bgLight": "#0F62FE",
+                        "fill": "#FFFFFF",
+                        "fillLight": "#FFFFFF"
+                    },
+                    "date": {
+                        "year": 2025,
+                        "month": 9
+                    },
+                    "link": {
+                        "href": "https://www.credly.com/badges/cc7b59cb-eb85-4922-af18-5e1ec77bd8af/public_url",
+                        "tooltipString": "open_website"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{IBM}} Cloud Essentials",
+                            "text": "Cloud computing certification covering AWS fundamentals, data visualization, dashboarding with Power BI and Tableau, and data pipeline architecture."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": "images/certifications/uofr.png",
+                    "faIcon": "fa-solid fa-graduation-cap",
+                    "faIconColors": {
+                        "bg": "#006341",
+                        "bgLight": "#006341",
+                        "fill": "#FFFFFF",
+                        "fillLight": "#FFFFFF"
+                    },
+                    "date": {
+                        "year": 2025,
+                        "month": 7
+                    },
+                    "link": {
+                        "href": "https://learner.mycreds.ca/badges/public/assertion/AYEQW_xKTlusrYvFDxh8xw",
+                        "tooltipString": "open_website"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Career Basics - {{University of Regina}}",
+                            "text": "Professional development certification covering career exploration, resume/cover letter writing, interview preparation, time management, digital literacy, and cultural workplace adaptability."
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "img": "images/certifications/uofr.png",
+                    "faIcon": "fa-solid fa-presentation-screen",
+                    "faIconColors": {
+                        "bg": "#006341",
+                        "bgLight": "#006341",
+                        "fill": "#FFFFFF",
+                        "fillLight": "#FFFFFF"
+                    },
+                    "date": {
+                        "year": 2025,
+                        "month": 7
+                    },
+                    "link": {
+                        "href": "",
+                        "tooltipString": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Certificate of Achievement - Presentation Skills",
+                            "text": "CESL University of Regina workshop certification in presentation structure, body language, vocal delivery, audience engagement, and managing presentation anxiety."
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "img": "",
+                    "faIcon": "fa-brands fa-linkedin",
+                    "faIconColors": {
+                        "bg": "#0A66C2",
+                        "bgLight": "#0A66C2",
+                        "fill": "#FFFFFF",
+                        "fillLight": "#FFFFFF"
+                    },
+                    "date": {
+                        "year": 2025,
+                        "month": 7
+                    },
+                    "link": {
+                        "href": "https://www.linkedin.com/learning/certificates/2d0445d2b1fbedc95b341edb957f0425046c2fd7789a7edb09b5e5dbb3c230bf",
+                        "tooltipString": "open_website"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Introduction to Career Skills in {{Data Analytics}}",
+                            "text": "Comprehensive course covering data analytics fundamentals, practical analytical techniques, visualization with Power BI/Tableau, and career development strategies for data analysts."
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "img": "images/certifications/uofr.png",
+                    "faIcon": "fa-solid fa-users",
+                    "faIconColors": {
+                        "bg": "#006341",
+                        "bgLight": "#006341",
+                        "fill": "#FFFFFF",
+                        "fillLight": "#FFFFFF"
+                    },
+                    "date": {
+                        "year": 2025,
+                        "month": 5
+                    },
+                    "link": {
+                        "href": "https://learner.mycreds.ca/badges/public/assertion/aITFsVuRQIq_WIg_KaCs6Q",
+                        "tooltipString": "open_website"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Student Engagement - {{University of Regina}}",
+                            "text": "Leadership and networking certification covering confident communication, professional networking, building connections, and self-reflection through campus workshops and events."
+                        }
+                    }
+                },
+                {
+                    "id": 8,
+                    "img": "",
+                    "faIcon": "fa-brands fa-python",
+                    "faIconColors": {
+                        "bg": "#3776AB",
+                        "bgLight": "#3776AB",
+                        "fill": "#FFD43B",
+                        "fillLight": "#FFD43B"
+                    },
+                    "date": {
+                        "year": 2025,
+                        "month": 1
+                    },
+                    "link": {
+                        "href": "https://api2.sololearn.com/v2/certificates/CC-XQSGSGGD/image/png?t=638723700169120310",
+                        "tooltipString": "open_website"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Python}} Developer - Sololearn",
+                            "text": "Professional Python certification covering core concepts, practical applications, SQL integration, data analysis with Pandas, and visualization using Power BI and Tableau."
+                        }
+                    }
+                },
+                {
+                    "id": 9,
+                    "img": "images/certifications/images.jpeg",
+                    "faIcon": "fa-solid fa-handshake",
+                    "faIconColors": {
+                        "bg": "#8B4513",
+                        "bgLight": "#8B4513",
+                        "fill": "#FFFFFF",
+                        "fillLight": "#FFFFFF"
+                    },
+                    "date": {
+                        "year": 2024,
+                        "month": 11
+                    },
+                    "link": {
+                        "href": "",
+                        "tooltipString": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Reconciliation Education - First Nations University",
+                            "text": "Certificate of completion for '4 Seasons of Reconciliation' course covering Indigenous perspectives, cultural awareness, and Diversity, Equity, and Inclusion (DEI) principles."
+                        }
+                    }
+                },
+                {
+                    "id": 10,
+                    "img": "",
+                    "faIcon": "fa-solid fa-certificate",
+                    "faIconColors": {
+                        "bg": "#1E3A8A",
+                        "bgLight": "#1E3A8A",
+                        "fill": "#FFFFFF",
+                        "fillLight": "#FFFFFF"
+                    },
+                    "date": {
+                        "year": 2024,
+                        "month": 8
+                    },
+                    "link": {
+                        "href": "https://www.credly.com/badges/be50aa75-fb54-4aae-8b74-59d099201ad1/linked_in_profile",
+                        "tooltipString": "open_website"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Verified International Academic Qualifications - WES",
+                            "text": "World Education Services verification of international academic credentials for Bachelor of Engineering degree equivalency in Canada."
+                        }
+                    }
+                },
+                {
+                    "id": 11,
+                    "img": "",
+                    "faIcon": "fa-solid fa-user-graduate",
+                    "faIconColors": {
+                        "bg": "#DC2626",
+                        "bgLight": "#DC2626",
+                        "fill": "#FFFFFF",
+                        "fillLight": "#FFFFFF"
+                    },
+                    "date": {
+                        "year": 2024,
+                        "month": 6
+                    },
+                    "link": {
+                        "href": "",
+                        "tooltipString": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Provisional Degree Certificate - {{GTU}}",
+                            "text": "Gujarat Technological University provisional degree certificate for Bachelor of Engineering in Computer Science with 89% grade (Credential ID: 275361)."
+                        }
+                    }
+                },
+                {
+                    "id": 12,
+                    "img": "",
+                    "faIcon": "fa-solid fa-award",
+                    "faIconColors": {
+                        "bg": "#7C3AED",
+                        "bgLight": "#7C3AED",
+                        "fill": "#FFFFFF",
+                        "fillLight": "#FFFFFF"
+                    },
+                    "date": {
+                        "year": 2023,
+                        "month": 6
+                    },
+                    "link": {
+                        "href": "",
+                        "tooltipString": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Certificate of Appreciation - NxtWave",
+                            "text": "Recognition certificate for team leadership and contributions to technical education initiatives at NxtWave."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
