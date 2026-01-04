@@ -1,0 +1,157 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Contact",
+                "title_short_nav": "Contact",
+                "title_long_prefix": "Get in",
+                "title_long": "{{Touch}}"
+            }
+        }
+    },
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleContactForm",
+            "settings": {
+                "email_js_public_key": "OnxMtwv3h_F86aMk5",
+                "email_js_service_id": "service_yr9fck5",
+                "email_js_template_id": "template_on0dru6"
+            },
+            "locales": {
+                "en": {
+                    "contact_thank_you_title": "{{Thank you}} for reaching out!",
+                    "contact_thank_you_body": "Your message has been successfully received! I appreciate you taking the time to contact me and I'll get back to you as soon as possible. Looking forward to connecting with you!",
+                    "contact_thank_you_footer": "A confirmation will be sent to: {{$email}}",
+                    "title": "Let's {{Connect}}"
+                }
+            },
+            "items": null
+        },
+        {
+            "id": 2,
+            "component": "ArticleInfoList",
+            "locales": {
+                "en": {
+                    "title": "Contact {{Information}}"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "faIcon": "fa-solid fa-envelope",
+                    "faIconColors": {
+                        "bg": "",
+                        "bgLight": "",
+                        "fill": "#E74C3C",
+                        "fillLight": "#C0392B"
+                    },
+                    "label": "vraj.patel2003v@gmail.com",
+                    "link": {
+                        "href": "mailto:vraj.patel2003v@gmail.com",
+                        "tooltipString": "email_me"
+                    },
+                    "copyToClipboardButton": true,
+                    "locales": {
+                        "en": {
+                            "title": "{{Email}} Address",
+                            "text": "Feel free to reach out via email for inquiries, opportunities, or collaborations."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "faIcon": "fa-brands fa-linkedin",
+                    "faIconColors": {
+                        "bg": "",
+                        "bgLight": "",
+                        "fill": "#0077b5",
+                        "fillLight": "#005582"
+                    },
+                    "label": "linkedin.com/in/vraj2003v",
+                    "link": {
+                        "href": "https://www.linkedin.com/in/vraj2003v/",
+                        "tooltipString": "open_website"
+                    },
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": {
+                            "title": "{{LinkedIn}} Profile",
+                            "text": "Connect with me on LinkedIn to stay updated on my professional journey and network."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "faIcon": "fa-brands fa-github",
+                    "faIconColors": {
+                        "bg": "",
+                        "bgLight": "",
+                        "fill": "#333333",
+                        "fillLight": "#181717"
+                    },
+                    "label": "github.com/Vraj2003v",
+                    "link": {
+                        "href": "https://github.com/Vraj2003v",
+                        "tooltipString": "open_website"
+                    },
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": {
+                            "title": "{{GitHub}} Portfolio",
+                            "text": "Check out my code repositories, projects, and contributions on GitHub."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "faIcon": "fa-solid fa-location-dot",
+                    "faIconColors": {
+                        "bg": "",
+                        "bgLight": "",
+                        "fill": "#27AE60",
+                        "fillLight": "#1E8449"
+                    },
+                    "label": "Saskatchewan, Canada",
+                    "link": {
+                        "href": null,
+                        "tooltipString": null
+                    },
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": {
+                            "title": "{{Location}}",
+                            "text": "Based in Windsor, Canada - Open to remote and on-site opportunities."
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "faIcon": "fa-solid fa-briefcase",
+                    "faIconColors": {
+                        "bg": "",
+                        "bgLight": "",
+                        "fill": "#F39C12",
+                        "fillLight": "#B87503"
+                    },
+                    "label": null,
+                    "link": {
+                        "href": null,
+                        "tooltipString": null
+                    },
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": {
+                            "title": "{{Open}} to Opportunities",
+                            "text": "Currently seeking full-time positions in Data Analytics, Artificial Intelligence, and Machine Learning roles."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

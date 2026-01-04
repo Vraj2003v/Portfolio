@@ -1,0 +1,22 @@
+{
+    "name": "Vrajkumar Patel",
+    "profilePictureUrl": "images/pictures/vraj.png",
+    "resumePdfUrl": "images/pictures/VRAJKUMAR PATEL RESUME.pdf",
+    "statusCircleVisible": true,
+    "statusCircleVariant": "available",
+    "statusCircleHoverMessage": "status_message_available_for_work",
+    "locales": {
+        "en": {
+            "localized_name": "Vrajkumar Patel",
+            "localized_name_stylized": "<strong>Vrajkumar {{Patel}}</strong>",
+            "status_message_available_for_work": "Actively seeking Co-op opportunities in Canada",
+            "roles": [
+                "Data Analyst",
+                "AI/ML Engineer",
+                "NLP Enthusiast"
+            ],
+            "name_pronunciation_ipa": "Vrajkumar Patel",
+            "name_pronunciation_audio_url": ""
+        }
+    }
+}

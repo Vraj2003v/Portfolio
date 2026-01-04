@@ -1,0 +1,221 @@
+{
+  "title": {
+    "locales": {
+      "en": {
+        "title_short": "Experience",
+        "title_short_nav": "Experience",
+        "title_long_prefix": "Summary of my",
+        "title_long": "Work Experience"
+      }
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleTimeline",
+      "locales": {
+        "en": {
+          "title": "Professional Experience"
+        }
+      },
+      "settings": {
+        "order_items_by": "dateStart.year",
+        "order_items_sort": "desc"
+      },
+      "items": [
+        {
+          "id": 1,
+          "faIcon": "fa-solid fa-robot",
+          "faIconColors": {
+            "bg": "#006341",
+            "bgLight": "#006341",
+            "fill": "#FFFFFF",
+            "fillLight": "#FFFFFF"
+          },
+          "dateStart": { "year": 2025, "month": 1 },
+          "dateEnd": { "year": 2025, "month": 5 },
+          "locales": {
+            "en": {
+              "title": "AI/ML Intern",
+              "province": "Vadodara, Gujarat",
+              "country": "India",
+              "institution": "MaMo Technolabs LLP",
+            
+                "text": "Contributed to real-world AI and machine learning projects by developing, training, and optimizing data-driven models to solve complex business and analytical problems in a collaborative industry environment.",
+                "list": [
+                  "Worked on end-to-end machine learning pipelines including data preprocessing, feature engineering, model training, and evaluation",
+                  "Implemented and fine-tuned supervised and unsupervised learning models for prediction, classification, and pattern recognition tasks",
+                  "Applied Python-based ML libraries to build scalable and efficient AI solutions",
+                  "Collaborated with cross-functional teams to translate business requirements into technical AI/ML solutions",
+                  "Conducted model performance analysis and optimization to improve accuracy and efficiency",
+                  "Documented workflows, experiments, and results to support knowledge sharing and project continuity"
+                ],
+                "tags": [
+                  "Machine Learning",
+                  "Artificial Intelligence",
+                  "Python",
+                  "Data Analysis",
+                  "Model Development",
+                  "Team Collaboration",
+                  "Problem Solving"
+                ]
+              
+
+            }
+          }
+        },
+        {
+          "id": 2,
+          "faIcon": "fa-solid fa-computer",
+          "faIconColors": {
+            "bg": "#006341",
+            "bgLight": "#006341",
+            "fill": "#FFFFFF",
+            "fillLight": "#FFFFFF"
+          },
+          "dateStart": { "year": 2024, "month": 10 },
+          "dateEnd": { "year": 2025, "month": 1 },
+          "locales": {
+            "en": {
+              "title": "AI Intern",
+              "province": "Vadodara, Gujarat",
+              "country": "India",
+              "institution": "Infosys Springboard",
+              "text": "Contributed to the project \"From Alt-text to Real-context\", focusing on integrating Large Language Models and advanced AI technologies to transform image-based inputs into meaningful, context-aware textual outputs.",
+              "list": [
+                "Designed and implemented backend workflows using Large Language Model APIs for image understanding and text generation",
+                "Integrated ChatOpenAI and Google Gemini APIs to enable multimodal AI capabilities",
+                "Connected AI-driven backend services with a Next.js frontend for seamless user interaction",
+                "Optimized API responses for accuracy, latency, and contextual relevance",
+                "Collaborated on system design to ensure scalable and modular AI integration"
+              ],
+              "tags": [
+                "Large Language Models",
+                "AI Integration",
+                "ChatOpenAI",
+                "Google Gemini",
+                "Next.js",
+                "Multimodal AI",
+                "API Development"
+              ]
+            }
+          }
+        },
+        {
+          "id": 3,
+          "faIcon": "fa-solid fa-chart-line",
+          "faIconColors": {
+            "bg": "#4A90E2",
+            "bgLight": "#4A90E2",
+            "fill": "#FFFFFF",
+            "fillLight": "#FFFFFF"
+          },
+          "dateStart": { "year": 2024, "month": 9 },
+          "dateEnd": { "year": 2024, "month": 10 },
+          "locales": {
+            "en": {
+              "title": "Machine Learning Intern",
+              "province": "Remote",
+              "country": "India",
+              "institution": "InternPe",
+              "text": "Completed a one-month machine learning internship, gaining hands-on experience by developing and deploying predictive models for real-world healthcare and business use cases.",
+  "list": [
+    "Built a Diabetes Prediction model using patient health data to support early risk assessment",
+    "Developed an IPL Match Winner Prediction system using historical match and team performance data",
+    "Created a Car Price Prediction model based on vehicle features and market trends",
+    "Implemented a Breast Cancer Detection model using medical datasets for classification and diagnosis support",
+    "Deployed interactive machine learning applications using Streamlit for user-friendly model interaction",
+    "Performed data preprocessing, feature engineering, and model evaluation to improve prediction accuracy"
+  ],
+  "tags": [
+    "Machine Learning",
+    "Python",
+    "Streamlit",
+    "Predictive Modeling",
+    "Healthcare Analytics",
+    "Data Preprocessing",
+    "Model Evaluation"
+  ]
+            }
+          }
+        },
+        {
+          "id": 4,
+          "faIcon": "fa-solid fa-laptop-code",
+          "faIconColors": {
+            "bg": "#3776AB",
+            "bgLight": "#3776AB",
+            "fill": "#FFD43B",
+            "fillLight": "#FFD43B"
+          },
+          "dateStart": { "year": 2024, "month": 8 },
+          "dateEnd": { "year": 2024, "month": 9 },
+          "locales": {
+            "en": {
+              "title": "Machine Learning Intern",
+              "province": "Remote",
+              "country": "India",
+              "institution": "SkillCraft Technologies",
+              "text": "Completed a four-week machine learning internship, gaining practical experience by building and evaluating diverse predictive and classification models using real-world datasets.",
+  "list": [
+    "Developed a House Price Prediction model using regression techniques on structured housing datasets",
+    "Implemented Mall Customer Segmentation using clustering algorithms to identify customer behavior patterns",
+    "Built an Animal Prediction system using classification models trained on labeled image and tabular data",
+    "Created a Hand Gesture Recognition model leveraging computer vision techniques and image-based datasets",
+    "Utilized Kaggle datasets for data preprocessing, feature engineering, and model validation",
+    "Evaluated model performance using appropriate metrics to ensure reliability and accuracy"
+  ],
+  "tags": [
+    "Machine Learning",
+    "Python",
+    "Kaggle",
+    "Predictive Modeling",
+    "Clustering",
+    "Computer Vision",
+    "Data Analysis"
+  ]
+            }
+          }
+        },
+        {
+          "id": 5,
+          "faIcon": "fa-solid fa-tasks",
+          "faIconColors": {
+            "bg": "#E94E77",
+            "bgLight": "#E94E77",
+            "fill": "#FFFFFF",
+            "fillLight": "#FFFFFF"
+          },
+          "dateStart": { "year": 2024, "month": 6 },
+          "dateEnd": { "year": 2024, "month": 7 },
+          "locales": {
+            "en": {
+              "title": "Machine Learning Intern",
+              "province": "Remote",
+              "country": "India",
+              "institution": "Cognifyz Technologies",
+              "text": "Completed a one-month machine learning internship, gaining practical experience by applying predictive and recommendation models to real-world hospitality and location-based analytics use cases.",
+  "list": [
+    "Developed a Restaurant Rating Prediction model using historical review and rating datasets",
+    "Built a Hotel Recommendation system leveraging user preferences and similarity-based approaches",
+    "Implemented Cuisine Classification models to categorize restaurants based on menu and metadata features",
+    "Performed Location-Based Analysis to identify geographic trends and customer behavior patterns",
+    "Applied data preprocessing and feature engineering techniques on predefined datasets",
+    "Evaluated model performance using appropriate metrics to ensure accuracy and reliability"
+  ],
+  "tags": [
+    "Machine Learning",
+    "Recommendation Systems",
+    "Predictive Analytics",
+    "Python",
+    "Classification",
+    "Location-Based Analysis",
+    "Data Processing"
+  ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Projects",
+                "title_short_nav": "Projects",
+                "title_long_prefix": "My",
+                "title_long": "{{Portfolio}}"
+            }
+        }
+    },
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticlePortfolio",
+            "locales": {
+                "en": {
+                    "title": "Featured {{Projects}}"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "",
+                    "faIcon": "fa-solid fa-closed-captioning",
+                    "faIconColors": {
+                        "bg": "#3498DB",
+                        "bgLight": "#2980B9",
+                        "fill": "#ffffff",
+                        "fillLight": "#ffffff"
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://github.com/Vraj2003v/CaptionPro.git",
+                                "tooltipString": "open_website",
+                                "faIcon": "fa-brands fa-github"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Caption Pro : AI-powered Image Captioning",
+                            "text": "CaptionPro is a next-generation AI-powered image captioning platform that goes beyond traditional alt-text by delivering context-aware, semantically rich descriptions through multimodal reasoning. Powered by Meta LLaMA-3.2-11B-Vision-Instruct and OpenAI models, the system generates intelligent captions while performing scene understanding and sentiment analysis to capture emotional cues and key visual elements. Designed to operate in zero-shot and multilingual settings, CaptionPro supports diverse real-world applications including accessibility enhancement, e-commerce content automation, and educational tools. The platform is built using a modern full-stack architecture with a React.js frontend and a Flask/FastAPI backend, integrating Hugging Face Transformers and OpenCV for scalable, production-ready deployment. Developed in collaboration with Infosys Springboard, the project emphasizes real-world impact and applied AI innovation.",
+                            "tags": ["Computer Vision","Multimodal AI","Image Captioning","LLMs","Sentiment Analysis","Accessibility"]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": "",
+                    "faIcon": "fa-solid fa-cannabis",
+                    "faIconColors": {
+                        "bg": "#9B59B6",
+                        "bgLight": "#8E44AD",
+                        "fill": "#ffffff",
+                        "fillLight": "#ffffff"
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://github.com/Vraj2003v/GreenHealthAI.git",
+                                "tooltipString": "open_website",
+                                "faIcon": "fa-brands fa-github"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Green Health AI : AI-powered plant care application",
+                            "text": "Green Health AI is a comprehensive AI-powered plant care application designed to help users identify plant species, detect diseases, and receive personalized care recommendations. The platform allows users to upload plant images for instant identification and disease analysis, providing actionable treatment suggestions to promote healthier plant growth. With built-in plant care reminders and garden management features, users can track their plants, monitor growth, and stay consistent with watering and maintenance schedules. An intelligent GreenAI assistant offers tailored advice based on plant type and condition, enhancing the overall user experience. Built using Next.js 15 and React, with Firebase for authentication, data storage, and media handling, and styled with Tailwind CSS, the application leverages Cloudinary for image processing and Google Generative AI for advanced plant analysis, showcasing a scalable and modern AI-driven web solution.",
+                            "tags": ["Artificial Intelligence", "Plant Identification", "Disease Detection", "Next.js", "Web Application", "Smart Gardening"]
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": "",
+                    "faIcon": "fa-regular fa-images",
+                    "faIconColors": {
+                        "bg": "#E74C3C",
+                        "bgLight": "#C0392B",
+                        "fill": "#ffffff",
+                        "fillLight": "#ffffff"
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://github.com/Vraj2003v/Image-Captioning-using-Attention-Based-ResNet.git",
+                                "tooltipString": "open_website",
+                                "faIcon": "fa-brands fa-github"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Picturify.AI : Image Captioning using Attention Based ResNet",
+                            "text": "Picturify.AI is a deep learning–based image captioning system that integrates computer vision and natural language processing to generate accurate, context-aware captions for images. The project employs a CNN–LSTM architecture with attention, using ResNet-50 for visual feature extraction and an attention-enhanced LSTM network to produce coherent, semantically relevant captions by focusing on key image regions. Designed with real-world usability in mind, Picturify.AI supports applications across accessibility, e-commerce, and social media by automating descriptive content generation. The platform features an intuitive Streamlit-based interface for seamless user interaction and a scalable FastAPI-powered backend deployed on cloud infrastructure, ensuring efficient processing and future-ready deployment. This project demonstrates practical expertise in deep learning, multimodal AI systems, and end-to-end ML application development.",
+                            "tags": ["Artificial Intelligence", "Computer Vision", "Image Captioning", "Deep Learning", "Natural Language Processing", "Accessibility"]
+
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": "",
+                    "faIcon": "fa-solid fa-money-bill-trend-up",
+                    "faIconColors": {
+                        "bg": "#27AE60",
+                        "bgLight": "#229954",
+                        "fill": "#ffffff",
+                        "fillLight": "#ffffff"
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://github.com/Vraj2003v/Stock-Market-Analysis-and-Precistion-using-Machine-Learning.git",
+                                "tooltipString": "open_website",
+                                "faIcon": "fa-brands fa-github"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "FinFlexx : Stock Market Analysis and Prediction",
+                            "text": "FinFlexx is a stock market analysis and prediction platform built to help users understand market behavior and make informed investment decisions through data-driven insights. The application seamlessly integrates frontend and backend technologies to deliver an intuitive user experience, allowing users to visualize stock data, explore trends, and view predictive results in real time. At its core, FinFlexx utilizes a Linear Regression model to analyze historical stock prices, trading volumes, and key market indicators in order to forecast future price movements. The model’s performance and reliability are evaluated using standard metrics such as Mean Squared Error (MSE), Mean Absolute Error (MAE), and Root Mean Squared Error (RMSE), ensuring transparent and interpretable predictions. This project demonstrates practical experience in financial data analysis, machine learning–based forecasting, and end-to-end web application development.",
+                            "tags": ["Stock Market Analysis", "Machine Learning", "Linear Regression", "Financial Data Analysis", "Predictive Analytics", "Web Application"]
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "img": "",
+                    "faIcon": "fa-solid fa-laptop-code",
+                    "faIconColors": {
+                        "bg": "#F7931A",
+                        "bgLight": "#D97706",
+                        "fill": "#ffffff",
+                        "fillLight": "#ffffff"
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://github.com/Vraj2003v/Code-Analyzer-for-Beginners.git",
+                                "tooltipString": "open_website",
+                                "faIcon": "fa-brands fa-github"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Code Analyzer for beginners",
+                            "text": "Code Analyzer for Beginners is an educational web-based platform designed to help novice programmers simplify, understand, and validate their code across multiple programming languages including C, C++, Java, and Python. The system works by allowing users to input source code, which is then analyzed using language-specific parsing and rule-based logic to detect syntax issues, evaluate structure, and generate simplified explanations of the code’s behavior. Along with error detection, the platform displays the corresponding program output wherever applicable, helping learners connect logic with execution. By abstracting complex programming concepts into clear feedback and readable insights, the tool bridges the gap between writing code and understanding how it functions. This project highlights practical experience in building beginner-friendly developer tools, multi-language code handling, and logic-driven web applications focused on learning and accessibility.",
+                            "tags": ["Programming Education", "Code Analysis", "Multi-Language Support", "Beginner-Friendly Tools", "Software Development", "Web Application"]
+
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "img": "",
+                    "faIcon": "fa-solid fa-plane",
+                    "faIconColors": {
+                        "bg": "#E91E63",
+                        "bgLight": "#C2185B",
+                        "fill": "#ffffff",
+                        "fillLight": "#ffffff"
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://github.com/Vraj2003v/Travel-and-Tourism-Management-System.git",
+                                "tooltipString": "open_website",
+                                "faIcon": "fa-brands fa-github"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Odyssey : Travel and Tourism Management System",
+                            "text": "Odyssey is a comprehensive travel and tourism website built using Bootstrap to deliver a responsive, visually appealing, and user-friendly experience across all devices. The platform provides detailed destination guides, interactive maps, user reviews, and integrated booking options to help travelers plan their trips effortlessly. By combining structured travel information with personalized itinerary features, Odyssey simplifies the entire journey—from discovery and planning to booking and exploration. This project highlights skills in frontend web development, responsive UI design with Bootstrap, and creating intuitive digital experiences tailored to modern travel needs.",
+                            "tags": ["Travel & Tourism", "Web Development", "Bootstrap", "Responsive Design", "User Experience", "Frontend Development"]
+                        }
+                    }
+                }                                
+            ]
+        }
+    ]
+}
